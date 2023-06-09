@@ -1,0 +1,3 @@
+First branch text document as a part of 
+assignemrnt 3 of Unity module part 1
+(basics of unity and github).
